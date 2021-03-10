@@ -22,7 +22,7 @@
   },
   "config": {
     "customUrl": "http://pug-starter.codetap.academy",
-    "githubUrl": "http://github.com/marianzburlea/pug-starter.git",
+    "githubUrl": "http://github.com/swoopstyle/pug.git",
     "deployToGithubIo": true,
     "directory": {
       "development": "tmp",
